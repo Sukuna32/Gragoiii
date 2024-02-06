@@ -9,7 +9,7 @@ module.exports = {
 		name: "emojimean",
 		alias: ["em", "emojimeaning", "emojimean"],
 		version: "1.2",
-		author: "NTKhang",
+		author: "KSHITIZ",
 		countDown: 5,
 		role: 0,
 		shortDescription: {
@@ -20,10 +20,10 @@ module.exports = {
 			vi: "Tìm nghĩa của emoji",
 			en: "Find the meaning of emoji"
 		},
-		category: "wiki",
+		category: "ai",
 		guide: {
-			vi: "   {pn} <emoji>: Tìm nghĩa của emoji",
-			en: "   {pn} <emoji>: Find the meaning of emoji"
+			vi: " {pn} <emoji>: Tìm nghĩa của emoji",
+			en: " {pn} <emoji>: Find the meaning of emoji"
 		}
 	},
 

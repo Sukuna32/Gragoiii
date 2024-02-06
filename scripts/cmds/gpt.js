@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 // config 
-const apiKey = "";
+const apiKey = "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";
 const maxTokens = 500;
 const numberGenerateImage = 4;
 const maxStorageMessage = 4;
@@ -16,10 +16,10 @@ const { openAIUsing, openAIHistory } = global.temp;
 module.exports = {
 	config: {
 		name: "gpt",
-		version: "1.2",
+		version: "1.3",
 		author: "NTKhang",
 		countDown: 5,
-		role: 0,
+		role: 2,
 		shortDescription: {
 			vi: "GPT chat",
 			en: "GPT chat"
@@ -117,7 +117,7 @@ module.exports = {
 				return message.reply(getLang('clearHistory'));
 			}
 			default: {
-				if (!args[1])
+				if (!args[0])
 					return message.reply(getLang('invalidContent'));
 
 				handleGpt(event, message, args, getLang, commandName);

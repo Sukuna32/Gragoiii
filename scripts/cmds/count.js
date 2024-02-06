@@ -4,7 +4,7 @@ module.exports = {
 		version: "1.2",
 		author: "NTKhang",
 		countDown: 5,
-		role: 0,
+		role: 1,
 		shortDescription: {
 			vi: "Xem tin nhắn nhóm",
 			en: "View group messages"
