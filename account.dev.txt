@@ -1,1 +1,90 @@
 
+[
+  {
+    "key": "datr",
+    "value": "Q1vNZdeiqJ9nBXGDJRzol1wg",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2024-02-15T09:38:22.844Z",
+    "lastAccessed": "2024-02-15T10:17:17.675Z"
+  },
+  {
+    "key": "sb",
+    "value": "Q1vNZeWGNRzPwU8RP8qXnrk3",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2024-02-15T09:38:22.891Z",
+    "lastAccessed": "2024-02-15T10:17:17.675Z"
+  },
+  {
+    "key": "fr",
+    "value": "0CIEtZVMEfhEPVlBo.AWWSb0_DGI9mnykYuvVXTxKzPz0.BlzVtD.9Z.AAA.0.0.BlzVtD.AWUfRzRhT2E",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2024-02-15T09:38:22.901Z",
+    "lastAccessed": "2024-02-15T10:17:17.675Z"
+  },
+  {
+    "key": "c_user",
+    "value": "61551414658065",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2024-02-15T09:38:22.902Z",
+    "lastAccessed": "2024-02-15T10:17:17.675Z"
+  },
+  {
+    "key": "xs",
+    "value": "45%3AHDDEkwbGquxvOQ%3A2%3A1707957059%3A-1%3A3813",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2024-02-15T09:38:22.903Z",
+    "lastAccessed": "2024-02-15T10:17:17.675Z"
+  },
+  {
+    "key": "ps_n",
+    "value": "0",
+    "expires": "2025-03-21T09:38:22.000Z",
+    "maxAge": 34560000,
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true,
+    "hostOnly": false,
+    "creation": "2024-02-15T09:38:23.009Z",
+    "lastAccessed": "2024-02-15T10:17:17.675Z"
+  },
+  {
+    "key": "ps_l",
+    "value": "0",
+    "expires": "2025-03-21T09:38:22.000Z",
+    "maxAge": 34560000,
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true,
+    "extensions": [
+      "SameSite=Lax"
+    ],
+    "hostOnly": false,
+    "creation": "2024-02-15T09:38:23.011Z",
+    "lastAccessed": "2024-02-15T10:17:17.675Z"
+  },
+  {
+    "key": "m_page_voice",
+    "value": "61551414658065",
+    "expires": "2024-05-15T09:38:23.000Z",
+    "maxAge": 7776000,
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true,
+    "hostOnly": false,
+    "creation": "2024-02-15T09:38:23.162Z",
+    "lastAccessed": "2024-02-15T10:17:17.675Z"
+  }
+]
